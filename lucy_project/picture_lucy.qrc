@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/figure_lucy">
+        <file alias="America.png">./figure_lucy/America.png</file>
+        <file alias="China.png">./figure_lucy/China.png</file>
+    </qresource>
+</RCC>
